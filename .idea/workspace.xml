@@ -16,6 +16,7 @@
     <file path="/Audio.java" changelist="e753c41a-16bb-4d40-9c41-281bd8472847" time="1382495630550" ignored="false" />
     <file path="/Demo08.html" changelist="e753c41a-16bb-4d40-9c41-281bd8472847" time="1382495180893" ignored="false" />
     <file path="/Demo08.java" changelist="e753c41a-16bb-4d40-9c41-281bd8472847" time="1382496153740" ignored="false" />
+    <file path="/manifest.txt" changelist="e753c41a-16bb-4d40-9c41-281bd8472847" time="1382496790720" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,13 +141,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Demo08.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Demo08.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Demo08.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="62" column="21" selection-start="1768" selection-end="1768" vertical-scroll-proportion="0.13843648">
+            <state line="62" column="21" selection-start="1768" selection-end="1768" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="manifest.txt" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/manifest.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="23" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -201,6 +211,7 @@
         <option value="$PROJECT_DIR$/src/Demo08.html" />
         <option value="$PROJECT_DIR$/src/Audio.java" />
         <option value="$PROJECT_DIR$/src/Demo08.java" />
+        <option value="$PROJECT_DIR$/src/manifest.txt" />
       </list>
     </option>
   </component>
@@ -527,15 +538,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Demo08.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="33" selection-start="1219" selection-end="1219" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Target.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="9" selection-start="288" selection-end="296" vertical-scroll-proportion="0.0">
@@ -644,10 +646,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Demo08.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="21" selection-start="1768" selection-end="1768" vertical-scroll-proportion="0.13843648">
+        <state line="62" column="21" selection-start="1768" selection-end="1768" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/manifest.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="23" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>

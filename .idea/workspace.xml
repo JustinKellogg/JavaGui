@@ -9,13 +9,13 @@
     <file path="/Author.java" changelist="e753c41a-16bb-4d40-9c41-281bd8472847" time="1381988342089" ignored="false" />
     <file path="/Demo05.java" changelist="e753c41a-16bb-4d40-9c41-281bd8472847" time="1381988025364" ignored="false" />
     <file path="/fragment.java" changelist="e753c41a-16bb-4d40-9c41-281bd8472847" time="1381989124573" ignored="false" />
-    <file path="/Problem.java" changelist="e753c41a-16bb-4d40-9c41-281bd8472847" time="1381988125351" ignored="false" />
+    <file path="/Problem.java" changelist="e753c41a-16bb-4d40-9c41-281bd8472847" time="1382497032475" ignored="false" />
     <file path="/Target.java" changelist="e753c41a-16bb-4d40-9c41-281bd8472847" time="1382468308087" ignored="false" />
     <file path="/Demo07.java" changelist="e753c41a-16bb-4d40-9c41-281bd8472847" time="1382494817446" ignored="false" />
     <file path="/References.java" changelist="e753c41a-16bb-4d40-9c41-281bd8472847" time="1382468756198" ignored="false" />
     <file path="/Audio.java" changelist="e753c41a-16bb-4d40-9c41-281bd8472847" time="1382495630550" ignored="false" />
-    <file path="/Demo08.html" changelist="e753c41a-16bb-4d40-9c41-281bd8472847" time="1382495180893" ignored="false" />
-    <file path="/Demo08.java" changelist="e753c41a-16bb-4d40-9c41-281bd8472847" time="1382496153740" ignored="false" />
+    <file path="/Demo08.html" changelist="e753c41a-16bb-4d40-9c41-281bd8472847" time="1382497085000" ignored="false" />
+    <file path="/Demo08.java" changelist="e753c41a-16bb-4d40-9c41-281bd8472847" time="1382497743792" ignored="false" />
     <file path="/manifest.txt" changelist="e753c41a-16bb-4d40-9c41-281bd8472847" time="1382496790720" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,36 +71,6 @@
       </breakpoint>
     </breakpoint_any>
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
-    <line_breakpoints>
-      <breakpoint url="file://$PROJECT_DIR$/src/Demo08.java" line="96" class="Demo08" package="">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/Demo08.java" line="91" class="Demo08" package="">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-    </line_breakpoints>
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -113,8 +83,10 @@
       <file leaf-file-name="Problem.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Problem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="24" selection-start="675" selection-end="675" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="40" column="4" selection-start="3444" selection-end="3444" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -133,7 +105,7 @@
       <file leaf-file-name="References.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/References.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="43" selection-start="414" selection-end="414" vertical-scroll-proportion="0.0">
+            <state line="20" column="24" selection-start="494" selection-end="494" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -141,10 +113,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Demo08.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Demo08.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Demo08.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="62" column="21" selection-start="1768" selection-end="1768" vertical-scroll-proportion="0.0">
+            <state line="109" column="81" selection-start="3191" selection-end="3191" vertical-scroll-proportion="0.6921824">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -152,10 +124,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="manifest.txt" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="manifest.txt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/manifest.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="23" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0">
+            <state line="0" column="17" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -164,7 +136,7 @@
       <file leaf-file-name="Demo08.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Demo08.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="68" selection-start="68" selection-end="68" vertical-scroll-proportion="-0.0">
+            <state line="0" column="20" selection-start="20" selection-end="20" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -202,16 +174,16 @@
       <list>
         <option value="$PROJECT_DIR$/src/Lab2.java" />
         <option value="$PROJECT_DIR$/src/ProblemDesc.java" />
-        <option value="$PROJECT_DIR$/src/Problem.java" />
         <option value="$PROJECT_DIR$/src/Author.java" />
         <option value="$PROJECT_DIR$/src/Demo05.java" />
         <option value="$PROJECT_DIR$/src/Target.java" />
         <option value="$PROJECT_DIR$/src/References.java" />
         <option value="$PROJECT_DIR$/src/Demo07.java" />
-        <option value="$PROJECT_DIR$/src/Demo08.html" />
         <option value="$PROJECT_DIR$/src/Audio.java" />
-        <option value="$PROJECT_DIR$/src/Demo08.java" />
         <option value="$PROJECT_DIR$/src/manifest.txt" />
+        <option value="$PROJECT_DIR$/src/Demo08.html" />
+        <option value="$PROJECT_DIR$/src/Problem.java" />
+        <option value="$PROJECT_DIR$/src/Demo08.java" />
       </list>
     </option>
   </component>
@@ -276,24 +248,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AudioClips" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -471,7 +425,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4002448" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1988984" sideWeight="0.74766356" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25233644" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25233644" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -548,7 +502,9 @@
     <entry file="file://$PROJECT_DIR$/src/Problem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="17" selection-start="91" selection-end="91" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -596,13 +552,6 @@
         <state line="75" column="0" selection-start="1965" selection-end="1965" vertical-scroll-proportion="0.33224756" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="24" selection-start="675" selection-end="675" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Target.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="32" column="22" selection-start="839" selection-end="839" vertical-scroll-proportion="0.0">
@@ -619,15 +568,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/References.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="43" selection-start="414" selection-end="414" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Audio.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="0" selection-start="469" selection-end="469" vertical-scroll-proportion="0.0">
@@ -637,26 +577,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Demo08.html">
+    <entry file="file://$PROJECT_DIR$/src/manifest.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="68" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0">
+        <state line="0" column="17" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Demo08.java">
+    <entry file="file://$PROJECT_DIR$/src/Demo08.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="21" selection-start="1768" selection-end="1768" vertical-scroll-proportion="0.0">
+        <state line="0" column="20" selection-start="20" selection-end="20" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/References.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="24" selection-start="494" selection-end="494" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/manifest.txt">
+    <entry file="file://$PROJECT_DIR$/src/Problem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="23" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0">
-          <folding />
+        <state line="40" column="4" selection-start="3444" selection-end="3444" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Demo08.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="109" column="81" selection-start="3191" selection-end="3191" vertical-scroll-proportion="0.6921824">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

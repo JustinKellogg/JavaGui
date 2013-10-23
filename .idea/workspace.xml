@@ -122,7 +122,7 @@
       <file leaf-file-name="Audio.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Audio.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="62" selection-start="902" selection-end="902" vertical-scroll-proportion="-0.5504886">
+            <state line="24" column="86" selection-start="712" selection-end="712" vertical-scroll-proportion="-0.7166124">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -398,7 +398,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1698" height="1020" extended-state="7" />
+    <frame x="-9" y="-9" width="1698" height="1020" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -602,7 +602,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Audio.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="62" selection-start="902" selection-end="902" vertical-scroll-proportion="-0.5504886">
+        <state line="24" column="86" selection-start="712" selection-end="712" vertical-scroll-proportion="-0.7166124">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

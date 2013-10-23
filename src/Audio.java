@@ -19,12 +19,12 @@ public class Audio extends JInternalFrame implements ActionListener, ListSelecti
      */
 
     Container container = getContentPane();
-    URL url = getClass().getResource("AudioClips/Beautiful.au");
+    URL url = getClass().getResource("AudioClips/Cold.au");
     AudioClip audioClip = Applet.newAudioClip(url);
     Button stopButton = new Button("Stop");
     Button playButton = new Button("Play");
     Button loopButton = new Button("Loop");
-    String[] names = {"Beautiful", "crickets", "HotelCalifornia", "One", "shark"};
+    String[] names = {"Cold", "crickets", "HotelCalifornia", "One", "shark"};
     JList clipList = new JList(names);
 
     Audio()

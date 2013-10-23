@@ -15,17 +15,21 @@ public class Demo07 extends JApplet implements ActionListener {
     JMenuBar menuBar = new JMenuBar();
     JMenu aboutMenu = new JMenu("About");
     JMenu demoMenu = new JMenu("Demo");
-    JInternalFrame currentFrame = new JInternalFrame();
 
     JMenuItem targetItem = new JMenuItem("Target");
     JInternalFrame targetFrame = new Target();
+
     JMenuItem problemItem = new JMenuItem("Problem");
     JInternalFrame problemFrame = new Problem();
+
     JMenuItem authorItem = new JMenuItem("Author");
     JInternalFrame authorFrame = new Author();
+
     JMenuItem refItem = new JMenuItem("References");
     JInternalFrame refFrame = new References();
 
+    JMenuItem audioItem = new JMenuItem("Audio");
+    JInternalFrame audioFrame = new Audio();
 
     /**
      * init method
@@ -42,6 +46,9 @@ public class Demo07 extends JApplet implements ActionListener {
 
         targetItem.addActionListener(this);
         demoMenu.add(targetItem);
+        demoMenu.add(new JSeparator());
+        demoMenu.add(audioItem);
+        audioItem.addActionListener(this);
 
         problemItem.addActionListener(this);
         aboutMenu.add(problemItem);
@@ -58,6 +65,7 @@ public class Demo07 extends JApplet implements ActionListener {
         desktopPane.add(targetFrame);
         desktopPane.add(authorFrame);
         desktopPane.add(refFrame);
+        desktopPane.add(audioFrame);
 
         repaint();
     }
@@ -78,7 +86,6 @@ public class Demo07 extends JApplet implements ActionListener {
         mainFrame.setTitle("Demo07");
         mainFrame.setSize(700,700);
         mainFrame.setVisible(true);
-        System.out.println("Main meth");
     }
 
     /**
@@ -128,6 +135,17 @@ public class Demo07 extends JApplet implements ActionListener {
                 refFrame.setLocation(50,0);
             }
             refFrame.toFront();
+        }
+
+        if(e.getActionCommand() == "Audio")
+        {
+            if(audioFrame == null || audioFrame.isClosed())
+            {
+                refFrame = new Audio();
+                desktopPane.add(audioFrame);
+                audioFrame.setLocation(50,0);
+            }
+            audioFrame.toFront();
         }
         System.out.println(e.getActionCommand());
         repaint();

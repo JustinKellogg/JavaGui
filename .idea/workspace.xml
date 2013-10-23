@@ -11,8 +11,9 @@
     <file path="/fragment.java" changelist="e753c41a-16bb-4d40-9c41-281bd8472847" time="1381989124573" ignored="false" />
     <file path="/Problem.java" changelist="e753c41a-16bb-4d40-9c41-281bd8472847" time="1381988125351" ignored="false" />
     <file path="/Target.java" changelist="e753c41a-16bb-4d40-9c41-281bd8472847" time="1382468308087" ignored="false" />
-    <file path="/Demo07.java" changelist="e753c41a-16bb-4d40-9c41-281bd8472847" time="1382469098834" ignored="false" />
+    <file path="/Demo07.java" changelist="e753c41a-16bb-4d40-9c41-281bd8472847" time="1382489137126" ignored="false" />
     <file path="/References.java" changelist="e753c41a-16bb-4d40-9c41-281bd8472847" time="1382468756198" ignored="false" />
+    <file path="/Audio.java" changelist="e753c41a-16bb-4d40-9c41-281bd8472847" time="1382492777377" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,8 +89,10 @@
       <file leaf-file-name="Author.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Author.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="716" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -105,10 +108,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Demo07.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Demo07.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Demo07.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="62" column="50" selection-start="1771" selection-end="1771" vertical-scroll-proportion="0.55700326">
+            <state line="150" column="18" selection-start="4420" selection-end="4420" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Audio.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Audio.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="62" selection-start="902" selection-end="902" vertical-scroll-proportion="-0.5504886">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -143,6 +157,7 @@
         <option value="$PROJECT_DIR$/src/Target.java" />
         <option value="$PROJECT_DIR$/src/References.java" />
         <option value="$PROJECT_DIR$/src/Demo07.java" />
+        <option value="$PROJECT_DIR$/src/Audio.java" />
       </list>
     </option>
   </component>
@@ -207,6 +222,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AudioClips" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -351,6 +384,11 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="e753c41a-16bb-4d40-9c41-281bd8472847" name="Default" comment="" />
@@ -367,7 +405,7 @@
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3995327" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2745327" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -445,17 +483,12 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Problem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="24" selection-start="675" selection-end="675" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Author.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="28" column="72" selection-start="707" selection-end="707" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -485,7 +518,9 @@
     <entry file="file://$PROJECT_DIR$/src/Author.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="17" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -524,13 +559,6 @@
         <state line="75" column="0" selection-start="1965" selection-end="1965" vertical-scroll-proportion="0.33224756" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Target.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="30" selection-start="2297" selection-end="2297" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Problem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="24" selection-start="675" selection-end="675" vertical-scroll-proportion="0.0">
@@ -540,8 +568,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Author.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="716" vertical-scroll-proportion="0.0">
-          <folding />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -556,7 +586,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Demo07.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="50" selection-start="1771" selection-end="1771" vertical-scroll-proportion="0.55700326">
+        <state line="150" column="18" selection-start="4420" selection-end="4420" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Target.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="30" selection-start="2297" selection-end="2297" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Audio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="62" selection-start="902" selection-end="902" vertical-scroll-proportion="-0.5504886">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
